@@ -20,3 +20,24 @@ h1{
 }
 /* Don't worry about knowing what all of these properties are yet */
 /* we'll come back to them later, we promise! */
+h1 {
+    color: rebeccapurple;
+}
+.green {
+    color: mediumseagreen;
+}
+#red {
+    color: tomato;
+}
+input {
+    padding: 5px;
+    border-color: rebeccapurple;
+}
+input[type="text"] {
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+}
+input[type="submit"] {
+    color: white;
+    background-color: rebeccapurple;
+}
