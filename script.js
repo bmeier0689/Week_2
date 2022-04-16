@@ -16,3 +16,11 @@ var objectVariable = {
     "class":"Webfund"
 }
 console.log(objectVariable['name'])
+
+for(var i = 10; i>0; i = i-1){
+    console.log(i)
+}
+
+for(var i = 100; i>0; i = i-4){
+    console.log(i)
+}
